@@ -1,0 +1,100 @@
+[
+  {
+    "type": "person",
+    "label": "Ebony Roberson",
+    "value": "1",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "Penny Mason",
+    "value": "2",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "Kara Poole",
+    "value": "3",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "Kristen Clarke",
+    "value": "4",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "John Mckinney",
+    "value": "5",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "Taylor Owens",
+    "value": "6",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "Denise Cox",
+    "value": "7",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "Stephen Bass",
+    "value": "8",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "Kelli Massey",
+    "value": "9",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "person",
+    "label": "Olivia White",
+    "value": "10",
+    "email": "example@email.com",
+    "isInvited": false
+  },
+  {
+    "type": "group",
+    "label": "Everyone at OSlash",
+    "value": "11",
+    "members": "32",
+    "isInvited": false
+  },
+  {
+    "type": "group",
+    "label": "Managers",
+    "value": "12",
+    "members": "11",
+    "isInvited": false
+  },
+  {
+    "type": "group",
+    "label": "Product Team",
+    "value": "13",
+    "members": "22",
+    "isInvited": false
+  },
+  {
+    "type": "group",
+    "label": "User exprience",
+    "value": "14",
+    "members": "52",
+    "isInvited": false
+  }
+]
